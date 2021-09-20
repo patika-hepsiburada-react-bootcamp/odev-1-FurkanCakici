@@ -1,1 +1,1 @@
-# odev-1-FurkanCakici
+# Patika - Hepsiburada React Bootcamp - Ödev 1
